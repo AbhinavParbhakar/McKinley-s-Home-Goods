@@ -1,0 +1,25 @@
+.menuBtn {
+  position: sticky;
+  border: 1px solid saddlebrown;
+  color: saddlebrown;
+  width: 150px;
+  height: 50px;
+  background-color: white;
+  padding: 10px;
+  font-size: large;
+  margin: 5px;
+  border-radius: 15px;
+}
+
+.menuBtn:hover {
+  background-color: sandybrown;
+  color: white;
+  border: 1 px solid saddlebrown;
+}
+
+.menuBtn:focus {
+  background-color: rgb(194, 3, 3);
+  color: white;
+  border: 1 px solid saddlebrown;
+  border-radius: 15px;
+}

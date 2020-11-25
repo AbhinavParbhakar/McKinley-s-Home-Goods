@@ -1,0 +1,25 @@
+.nav {
+  background-color: grey;
+  border-radius: 15px;
+}
+
+.navBar {
+  position: relative;
+  margin-left: 25px;
+}
+
+.navPic {
+  position: relative;
+  left: 620px;
+  width: 100px;
+  height: 100px;
+}
+
+.time {
+  margin-left: 1200px;
+  margin-top: -90px;
+}
+
+.currentTime {
+  color: white;
+}

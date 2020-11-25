@@ -1,0 +1,849 @@
+[
+    {
+        "Name": "Beef",
+        "stock": "200",
+        "department": "Food",
+        "price": "4.99",
+        "id": "0"
+    },
+    {
+        "Name": "Beans",
+        "stock": "150",
+        "department": "Food",
+        "price": "3.99",
+        "id": "1"
+    },
+    {
+        "Name": "Chicken",
+        "stock": "50",
+        "department": "Food",
+        "price": "5.99",
+        "id": "2"
+    },
+    {
+        "Name": "Chicken Ribs",
+        "stock": "30",
+        "department": "Food",
+        "price": "10.99",
+        "id": "3"
+    },
+    {
+        "Name": "Rice",
+        "stock": "50",
+        "department": "Food",
+        "price": "6.99",
+        "id": "4"
+    },
+    {
+        "Name": "Potatoes",
+        "stock": "200",
+        "department": "Food",
+        "price": "10.99",
+        "id": "5"
+    },
+    {
+        "Name": "Salmon",
+        "stock": "60",
+        "department": "Food",
+        "price": "4.99",
+        "id": "6"
+    },
+    {
+        "Name": "Eggs",
+        "stock": "100",
+        "department": "Food",
+        "price": "6.99",
+        "id": "7"
+    },
+    {
+        "Name": "Milk",
+        "stock": "200",
+        "department": "Food",
+        "price": "3.99",
+        "id": "8"
+    },
+    {
+        "Name": "Yogurt",
+        "stock": "100",
+        "department": "Food",
+        "price": "2.99",
+        "id": "9"
+    },
+    {
+        "Name": "55'TV",
+        "stock": "30",
+        "department": "Appliances",
+        "price": "459.99",
+        "id": "10"
+    },
+    {
+        "Name": "65'TV",
+        "stock": "20",
+        "department": "Appliances",
+        "price": "549.99",
+        "id": "11"
+    },
+    {
+        "Name": "75'TV",
+        "stock": "20",
+        "department": "Appliances",
+        "price": "799.99",
+        "id": "12"
+    },
+    {
+        "Name": "Washer",
+        "stock": "50",
+        "department": "Appliances",
+        "price": "799.99",
+        "id": "13"
+    },
+    {
+        "Name": "Drier",
+        "stock": "75",
+        "department": "Appliances",
+        "price": "899.99",
+        "id": "14"
+    },
+    {
+        "Name": "Refridgator",
+        "stock": "50",
+        "department": "Appliances",
+        "price": "1199.99",
+        "id": "15"
+    },
+    {
+        "Name": "Microwave",
+        "stock": "100",
+        "department": "Appliances",
+        "price": "259.99",
+        "id": "16"
+    },
+    {
+        "Name": "Dishwasher",
+        "stock": "60",
+        "department": "Appliances",
+        "price": "599.99",
+        "id": "17"
+    },
+    {
+        "Name": "Oven",
+        "stock": "45",
+        "department": "Appliances",
+        "price": "699.99",
+        "id": "18"
+    },
+    {
+        "Name": "Water-heater",
+        "stock": "200",
+        "department": "Appliances",
+        "price": "2499.99",
+        "id": "19"
+    },
+    {
+        "Name": "Brown Pants",
+        "stock": "500",
+        "department": "Clothing",
+        "price": "29.99",
+        "id": "20"
+    },
+    {
+        "Name": "Black Pants",
+        "stock": "420",
+        "department": "Clothing",
+        "price": "39.99",
+        "id": "21"
+    },
+    {
+        "Name": "Blue Pants",
+        "stock": "300",
+        "department": "Clothing",
+        "price": "24.99",
+        "id": "22"
+    },
+    {
+        "Name": "Navy Pants",
+        "stock": "100",
+        "department": "Clothing",
+        "price": "19.99",
+        "id": "23"
+    },
+    {
+        "Name": "White Shirt",
+        "stock": "200",
+        "department": "Clothing",
+        "price": "34.99",
+        "id": "24"
+    },
+    {
+        "Name": "Black Shirt",
+        "stock": "500",
+        "department": "Clothing",
+        "price": "24.99",
+        "id": "25"
+    },
+    {
+        "Name": "Blue Shirt",
+        "stock": "100",
+        "department": "Clothing",
+        "price": "29.99",
+        "id": "26"
+    },
+    {
+        "Name": "Pink Shirt",
+        "stock": "150",
+        "department": "Clothing",
+        "price": "30.99",
+        "id": "27"
+    },
+    {
+        "Name": "Leather Belt",
+        "stock": "20",
+        "department": "Clothing",
+        "price": "99.99",
+        "id": "28"
+    },
+    {
+        "Name": "Cloth Belt",
+        "stock": "50",
+        "department": "Clothing",
+        "price": "15.99",
+        "id": "29"
+    },
+    {
+        "Name": "Dress Socks",
+        "stock": "100",
+        "department": "Clothing",
+        "price": "19.99",
+        "id": "30"
+    },
+    {
+        "Name": "Athletic Socks",
+        "stock": "150",
+        "department": "Clothing",
+        "price": "9.99",
+        "id": "31"
+    },
+    {
+        "Name": "Boat Shoes",
+        "stock": "56",
+        "department": "Clothing",
+        "price": "79.99",
+        "id": "32"
+    },
+    {
+        "Name": "Basketball Shoes",
+        "stock": "45",
+        "department": "Clothing",
+        "price": "129.99",
+        "id": "33"
+    },
+    {
+        "Name": "Running Shoes",
+        "stock": "100",
+        "department": "Clothing",
+        "price": "99.99",
+        "id": "34"
+    },
+    {
+        "Name": "Dress Shoes",
+        "stock": "50",
+        "department": "Clothing",
+        "price": "259.99",
+        "id": "35"
+    },
+    {
+        "Name": "Laptop",
+        "stock": "63",
+        "department": "Tech",
+        "price": "599.99",
+        "id": "36"
+    },
+    {
+        "Name": "Smart Phone",
+        "stock": "200",
+        "department": "Tech",
+        "price": "349.99",
+        "id": "37"
+    },
+    {
+        "Name": "Phone Charger",
+        "stock": "500",
+        "department": "Tech",
+        "price": "35.99",
+        "id": "38"
+    },
+    {
+        "Name": "Wireless Earbuds",
+        "stock": "45",
+        "department": "Tech",
+        "price": "115.99",
+        "id": "39"
+    },
+    {
+        "Name": "Gaming Console",
+        "stock": "50",
+        "department": "Tech",
+        "price": "349.99",
+        "id": "40"
+    },
+    {
+        "Name": "PC Monitor",
+        "stock": "100",
+        "department": "Tech",
+        "price": "399.99",
+        "id": "41"
+    },
+    {
+        "Name": "Mouse",
+        "stock": "250",
+        "department": "Tech",
+        "price": "49.99",
+        "id": "42"
+    },
+    {
+        "Name": "Keyboard",
+        "stock": "250",
+        "department": "Tech",
+        "price": "69.99",
+        "id": "43"
+    },
+    {
+        "Name": "Speakers",
+        "stock": "20",
+        "department": "Tech",
+        "price": "199.99",
+        "id": "44"
+    },
+    {
+        "Name": "Tablet",
+        "stock": "120",
+        "department": "Tech",
+        "price": "299.99",
+        "id": "45"
+    },
+    {
+        "Name": "Flashdrive",
+        "stock": "300",
+        "department": "Tech",
+        "price": "5.99",
+        "id": "46"
+    },
+    {
+        "Name": "Smart Watch",
+        "stock": "140",
+        "department": "Tech",
+        "price": "203.99",
+        "id": "47"
+    },
+    {
+        "Name": "Camera",
+        "stock": "0",
+        "department": "Tech",
+        "price": "599.99",
+        "id": "48"
+    },
+    {
+        "Name": "Running Smart Watch",
+        "stock": "16",
+        "department": "Tech",
+        "price": "299.99",
+        "id": "49"
+    },
+    {
+        "Name": "External Hardrive",
+        "stock": "0",
+        "department": "Tech",
+        "price": "59.99",
+        "id": "50"
+    },
+    {
+        "Name": "Printer",
+        "stock": "89",
+        "department": "Tech",
+        "price": "699.99",
+        "id": "51"
+    },
+    {
+        "Name": "Dining Table",
+        "stock": "13",
+        "department": "Furniture",
+        "price": "299.99",
+        "id": "52"
+    },
+    {
+        "Name": "TV Stand",
+        "stock": "20",
+        "department": "Furniture",
+        "price": "300.99",
+        "id": "53"
+    },
+    {
+        "Name": "Leather Sofa",
+        "stock": "100",
+        "department": "Furniture",
+        "price": "699.99",
+        "id": "54"
+    },
+    {
+        "Name": "Suede Sofa",
+        "stock": "300",
+        "department": "Furniture",
+        "price": "399.99",
+        "id": "55"
+    },
+    {
+        "Name": "Coffee Table",
+        "stock": "250",
+        "department": "Furniture",
+        "price": "150.99",
+        "id": "56"
+    },
+    {
+        "Name": "Mattress",
+        "stock": "89",
+        "department": "Furniture",
+        "price": "560.99",
+        "id": "57"
+    },
+    {
+        "Name": "Dresser",
+        "stock": "100",
+        "department": "Furniture",
+        "price": "69.99",
+        "id": "58"
+    },
+    {
+        "Name": "Mirror Stand",
+        "stock": "200",
+        "department": "Furniture",
+        "price": "310.99",
+        "id": "59"
+    },
+    {
+        "Name": "Lamp",
+        "stock": "250",
+        "department": "Furniture",
+        "price": "120.99",
+        "id": "60"
+    },
+    {
+        "Name": "Exotic Rug",
+        "stock": "10",
+        "department": "Furniture",
+        "price": "999.99",
+        "id": "61"
+    },
+    {
+        "Name": "Coffee Blend",
+        "stock": "2",
+        "department": "Food",
+        "price": "10.19",
+        "id": "62"
+    },
+    {
+        "Name": "24pk Drinking Water",
+        "stock": "50",
+        "department": "Food",
+        "price": "2.69",
+        "id": "63"
+    },
+    {
+        "Name": "Rasberries",
+        "stock": "59",
+        "department": "Food",
+        "price": "2.99",
+        "id": "64"
+    },
+    {
+        "Name": "Shredded Cheese",
+        "stock": "20",
+        "department": "Food",
+        "price": "1.99",
+        "id": "65"
+    },
+    {
+        "Name": "Brown Eggs",
+        "stock": "25",
+        "department": "Food",
+        "price": "3.69",
+        "id": "66"
+    },
+    {
+        "Name": "Cheerios",
+        "stock": "10",
+        "department": "Food",
+        "price": "3.79",
+        "id": "67"
+    },
+    {
+        "Name": "Grapes",
+        "stock": "0",
+        "department": "Food",
+        "price": "3.49",
+        "id": "68"
+    },
+    {
+        "Name": "Unsalted butter",
+        "stock": "5",
+        "department": "Food",
+        "price": "2.59",
+        "id": "69"
+    },
+    {
+        "Name": "Dr. Pepper",
+        "stock": "10",
+        "department": "Food",
+        "price": "4.99",
+        "id": "70"
+    },
+    {
+        "Name": "Blackberries",
+        "stock": "20",
+        "department": "Food",
+        "price": "2.69",
+        "id": "71"
+    },
+    {
+        "Name": "Chicken Sausage",
+        "stock": "15",
+        "department": "Food",
+        "price": "3.99",
+        "id": "72"
+    },
+    {
+        "Name": "Ground Beef",
+        "stock": "11",
+        "department": "Food",
+        "price": "5.89",
+        "id": "73"
+    },
+    {
+        "Name": "Ground Pork",
+        "stock": "5",
+        "department": "Food",
+        "price": "3.69",
+        "id": "74"
+    },
+    {
+        "Name": "Veggie meat",
+        "stock": "2",
+        "department": "Food",
+        "price": "3.89",
+        "id": "75"
+    },
+    {
+        "Name": "Airpods",
+        "stock": "10",
+        "department": "Tech",
+        "price": "199.99",
+        "id": "76"
+    },
+    {
+        "Name": "Fire TV stick",
+        "stock": "20",
+        "department": "Tech",
+        "price": "24.99",
+        "id": "77"
+    },
+    {
+        "Name": "Beats headphones",
+        "stock": "9",
+        "department": "Tech",
+        "price": "174.99",
+        "id": "78"
+    },
+    {
+        "Name": "SkullCandy headphones",
+        "stock": "5",
+        "department": "Tech",
+        "price": "24.99",
+        "id": "79"
+    },
+    {
+        "Name": "Ipad",
+        "stock": "50",
+        "department": "Tech",
+        "price": "330.99",
+        "id": "80"
+    },
+    {
+        "Name": "GPS watch",
+        "stock": "20",
+        "department": "Tech",
+        "price": "259.99",
+        "id": "81"
+    },
+    {
+        "Name": "Roku TV",
+        "stock": "15",
+        "department": "Tech",
+        "price": "39.49",
+        "id": "82"
+    },
+    {
+        "Name": "PS5",
+        "stock": "0",
+        "department": "Tech",
+        "price": "499.99",
+        "id": "83"
+    },
+    {
+        "Name": "Xbox SX",
+        "stock": "0",
+        "department": "Tech",
+        "price": "499.99",
+        "id": "84"
+    },
+    {
+        "Name": "Xbox SS",
+        "stock": "50",
+        "department": "Tech",
+        "price": "299.99",
+        "id": "85"
+    },
+    {
+        "Name": "Chromecast",
+        "stock": "15",
+        "department": "Tech",
+        "price": "49.99",
+        "id": "86"
+    },
+    {
+        "Name": "Echo dot",
+        "stock": "60",
+        "department": "Tech",
+        "price": "29.99",
+        "id": "87"
+    },
+    {
+        "Name": "Arm barrel chair",
+        "stock": "15",
+        "department": "Furniture",
+        "price": "180",
+        "id": "88"
+    },
+    {
+        "Name": "Armless chair",
+        "stock": "20",
+        "department": "Furniture",
+        "price": "130",
+        "id": "89"
+    },
+    {
+        "Name": "Black Armchair",
+        "stock": "25",
+        "department": "Furniture",
+        "price": "170",
+        "id": "90"
+    },
+    {
+        "Name": "Accent Chair",
+        "stock": "100",
+        "department": "Furniture",
+        "price": "170",
+        "id": "91"
+    },
+    {
+        "Name": "Fan Back chair",
+        "stock": "0",
+        "department": "Furniture",
+        "price": "190",
+        "id": "92"
+    },
+    {
+        "Name": "Modern chair",
+        "stock": "0",
+        "department": "Furniture",
+        "price": "180",
+        "id": "93"
+    },
+    {
+        "Name": "Papasan Chair",
+        "stock": "15",
+        "department": "Furniture",
+        "price": "190",
+        "id": "94"
+    },
+    {
+        "Name": "Wood chair",
+        "stock": "60",
+        "department": "Furniture",
+        "price": "300",
+        "id": "95"
+    },
+    {
+        "Name": "Sling chair",
+        "stock": "20",
+        "department": "Furniture",
+        "price": "270",
+        "id": "96"
+    },
+    {
+        "Name": "40's stool",
+        "stock": "25",
+        "department": "Furniture",
+        "price": "100",
+        "id": "97"
+    },
+    {
+        "Name": "70's couch",
+        "stock": "30",
+        "department": "Furniture",
+        "price": "300",
+        "id": "98"
+    },
+    {
+        "Name": "Hooded puffer",
+        "stock": "100",
+        "department": "Clothing",
+        "price": "28",
+        "id": "99"
+    },
+    {
+        "Name": "Sherpa Zipup",
+        "stock": "120",
+        "department": "Clothing",
+        "price": "29.99",
+        "id": "100"
+    },
+    {
+        "Name": "Puffer jacket",
+        "stock": "25",
+        "department": "Clothing",
+        "price": "79.99",
+        "id": "101"
+    },
+    {
+        "Name": "Denim Jacket",
+        "stock": "100",
+        "department": "Clothing",
+        "price": "49.99",
+        "id": "102"
+    },
+    {
+        "Name": "Trucker Jacket",
+        "stock": "50",
+        "department": "Clothing",
+        "price": "49.99",
+        "id": "103"
+    },
+    {
+        "Name": "Hooded Fleece",
+        "stock": "25",
+        "department": "Clothing",
+        "price": "29.99",
+        "id": "104"
+    },
+    {
+        "Name": "Softshell Jacket",
+        "stock": "30",
+        "department": "Clothing",
+        "price": "58",
+        "id": "105"
+    },
+    {
+        "Name": "Snow pants",
+        "stock": "25",
+        "department": "Clothing",
+        "price": "38",
+        "id": "106"
+    },
+    {
+        "Name": "Tabre Parka",
+        "stock": "100",
+        "department": "Clothing",
+        "price": "89.95",
+        "id": "107"
+    },
+    {
+        "Name": "Puffer vest",
+        "stock": "50",
+        "department": "Clothing",
+        "price": "29.99",
+        "id": "108"
+    },
+    {
+        "Name": "Obreck Jacket",
+        "stock": "99",
+        "department": "Clothing",
+        "price": "50.95",
+        "id": "109"
+    },
+    {
+        "Name": "Knit Blazer",
+        "stock": "15",
+        "department": "Clothing",
+        "price": "14.98",
+        "id": "110"
+    },
+    {
+        "Name": "SS microwave",
+        "stock": "100",
+        "department": "Appliances",
+        "price": "319.99",
+        "id": "111"
+    },
+    {
+        "Name": "Samsung dishwasher",
+        "stock": "500",
+        "department": "Appliances",
+        "price": "849.99",
+        "id": "112"
+    },
+    {
+        "Name": "French door Fridge",
+        "stock": "250",
+        "department": "Appliances",
+        "price": "1249.99",
+        "id": "113"
+    },
+    {
+        "Name": "One door fridge",
+        "stock": "100",
+        "department": "Appliances",
+        "price": "764.99",
+        "id": "114"
+    },
+    {
+        "Name": "35' TV",
+        "stock": "150",
+        "department": "Appliances",
+        "price": "59.99",
+        "id": "115"
+    },
+    {
+        "Name": "40' TV",
+        "stock": "100",
+        "department": "Appliances",
+        "price": "199.99",
+        "id": "116"
+    },
+    {
+        "Name": "Air Frier",
+        "stock": "12",
+        "department": "Appliances",
+        "price": "25.99",
+        "id": "117"
+    },
+    {
+        "Name": "Juice Mixer",
+        "stock": "20",
+        "department": "Appliances",
+        "price": "250.99",
+        "id": "118"
+    },
+    {
+        "Name": "Rice Maker",
+        "stock": "25",
+        "department": "Appliances",
+        "price": "99.99",
+        "id": "119"
+    },
+    {
+        "Name": "Vaccum Cleaner",
+        "stock": "30",
+        "department": "Appliances",
+        "price": "299.99",
+        "id": "120"
+    }
+]

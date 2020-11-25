@@ -1,0 +1,34 @@
+.saveItem {
+  border-radius: 15px;
+  background-color: grey;
+  color: white;
+}
+
+.saveItem:hover {
+  background-color: green;
+}
+
+.savedItem {
+  color: green;
+}
+
+.item {
+  background: none;
+  border: 1px solid saddlebrown;
+  margin: 5px;
+  margin-bottom: 10px;
+  border-radius: 15px;
+  font-size: medium;
+}
+
+.removeItem {
+  border-radius: 15px;
+  background-color: grey;
+  color: white;
+}
+
+.removeItem:hover {
+  border-radius: 15px;
+  background-color: rgb(194, 3, 3);
+  color: white;
+}
