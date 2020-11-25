@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/McKinley-s-Home-Goods/static/css/main.2f9e21f8.chunk.css",
-    "main.js": "/McKinley-s-Home-Goods/static/js/main.b093a0b6.chunk.js",
-    "main.js.map": "/McKinley-s-Home-Goods/static/js/main.b093a0b6.chunk.js.map",
+    "main.js": "/McKinley-s-Home-Goods/static/js/main.46ff1087.chunk.js",
+    "main.js.map": "/McKinley-s-Home-Goods/static/js/main.46ff1087.chunk.js.map",
     "runtime-main.js": "/McKinley-s-Home-Goods/static/js/runtime-main.eab3fde7.js",
     "runtime-main.js.map": "/McKinley-s-Home-Goods/static/js/runtime-main.eab3fde7.js.map",
     "static/js/2.ab1cd27a.chunk.js": "/McKinley-s-Home-Goods/static/js/2.ab1cd27a.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.eab3fde7.js",
     "static/js/2.ab1cd27a.chunk.js",
     "static/css/main.2f9e21f8.chunk.css",
-    "static/js/main.b093a0b6.chunk.js"
+    "static/js/main.46ff1087.chunk.js"
   ]
 }
