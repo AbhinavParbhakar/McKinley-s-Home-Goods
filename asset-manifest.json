@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/McKinley-s-Home-Goods/static/css/main.2f9e21f8.chunk.css",
-    "main.js": "/McKinley-s-Home-Goods/static/js/main.2ae3c712.chunk.js",
-    "main.js.map": "/McKinley-s-Home-Goods/static/js/main.2ae3c712.chunk.js.map",
+    "main.css": "/McKinley-s-Home-Goods/static/css/main.2e761ec8.chunk.css",
+    "main.js": "/McKinley-s-Home-Goods/static/js/main.2f86a29a.chunk.js",
+    "main.js.map": "/McKinley-s-Home-Goods/static/js/main.2f86a29a.chunk.js.map",
     "runtime-main.js": "/McKinley-s-Home-Goods/static/js/runtime-main.eab3fde7.js",
     "runtime-main.js.map": "/McKinley-s-Home-Goods/static/js/runtime-main.eab3fde7.js.map",
     "static/js/2.ab1cd27a.chunk.js": "/McKinley-s-Home-Goods/static/js/2.ab1cd27a.chunk.js",
     "static/js/2.ab1cd27a.chunk.js.map": "/McKinley-s-Home-Goods/static/js/2.ab1cd27a.chunk.js.map",
     "index.html": "/McKinley-s-Home-Goods/index.html",
-    "static/css/main.2f9e21f8.chunk.css.map": "/McKinley-s-Home-Goods/static/css/main.2f9e21f8.chunk.css.map",
+    "static/css/main.2e761ec8.chunk.css.map": "/McKinley-s-Home-Goods/static/css/main.2e761ec8.chunk.css.map",
     "static/js/2.ab1cd27a.chunk.js.LICENSE.txt": "/McKinley-s-Home-Goods/static/js/2.ab1cd27a.chunk.js.LICENSE.txt",
     "static/media/Appliances.d6071a26.jpg": "/McKinley-s-Home-Goods/static/media/Appliances.d6071a26.jpg",
     "static/media/Clothing.b73fc06b.jpg": "/McKinley-s-Home-Goods/static/media/Clothing.b73fc06b.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.eab3fde7.js",
     "static/js/2.ab1cd27a.chunk.js",
-    "static/css/main.2f9e21f8.chunk.css",
-    "static/js/main.2ae3c712.chunk.js"
+    "static/css/main.2e761ec8.chunk.css",
+    "static/js/main.2f86a29a.chunk.js"
   ]
 }
