@@ -1,24 +1,21 @@
 {
   "files": {
-    "main.css": "/McKinley-s-Home-Goods/static/css/main.bcbf4c76.chunk.css",
-    "main.js": "/McKinley-s-Home-Goods/static/js/main.f0d060f7.chunk.js",
-    "main.js.map": "/McKinley-s-Home-Goods/static/js/main.f0d060f7.chunk.js.map",
+    "main.css": "/McKinley-s-Home-Goods/static/css/main.5fd9c163.chunk.css",
+    "main.js": "/McKinley-s-Home-Goods/static/js/main.fcc97afd.chunk.js",
+    "main.js.map": "/McKinley-s-Home-Goods/static/js/main.fcc97afd.chunk.js.map",
     "runtime-main.js": "/McKinley-s-Home-Goods/static/js/runtime-main.eab3fde7.js",
     "runtime-main.js.map": "/McKinley-s-Home-Goods/static/js/runtime-main.eab3fde7.js.map",
     "static/js/2.ab1cd27a.chunk.js": "/McKinley-s-Home-Goods/static/js/2.ab1cd27a.chunk.js",
     "static/js/2.ab1cd27a.chunk.js.map": "/McKinley-s-Home-Goods/static/js/2.ab1cd27a.chunk.js.map",
     "index.html": "/McKinley-s-Home-Goods/index.html",
-    "static/css/main.bcbf4c76.chunk.css.map": "/McKinley-s-Home-Goods/static/css/main.bcbf4c76.chunk.css.map",
+    "static/css/main.5fd9c163.chunk.css.map": "/McKinley-s-Home-Goods/static/css/main.5fd9c163.chunk.css.map",
     "static/js/2.ab1cd27a.chunk.js.LICENSE.txt": "/McKinley-s-Home-Goods/static/js/2.ab1cd27a.chunk.js.LICENSE.txt",
-    "static/media/Departments.css": "/McKinley-s-Home-Goods/static/media/Food.bf25ec78.jpg",
-    "static/media/Clothing.b73fc06b.jpg": "/McKinley-s-Home-Goods/static/media/Clothing.b73fc06b.jpg",
-    "static/media/Furniture.bbff31f4.jpg": "/McKinley-s-Home-Goods/static/media/Furniture.bbff31f4.jpg",
-    "static/media/Technology.cf9de54f.jpg": "/McKinley-s-Home-Goods/static/media/Technology.cf9de54f.jpg"
+    "static/media/Departments.css": "/McKinley-s-Home-Goods/static/media/Technology.78941d9e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.eab3fde7.js",
     "static/js/2.ab1cd27a.chunk.js",
-    "static/css/main.bcbf4c76.chunk.css",
-    "static/js/main.f0d060f7.chunk.js"
+    "static/css/main.5fd9c163.chunk.css",
+    "static/js/main.fcc97afd.chunk.js"
   ]
 }
