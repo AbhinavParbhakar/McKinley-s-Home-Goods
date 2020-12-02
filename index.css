@@ -1,0 +1,10 @@
+@media screen and (min-width: 1920px) {
+  html {
+    position: absolute;
+    width: 100%;
+  }
+
+  #root {
+    width: 100%;
+  }
+}
